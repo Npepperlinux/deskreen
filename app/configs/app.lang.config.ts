@@ -13,6 +13,6 @@ export default {
     zh_TW: '繁體中文',
     da: 'Dansk',
     de: 'Deutsch',
-    ja: '日本語'
+    ja: '日本語',
   },
 };
